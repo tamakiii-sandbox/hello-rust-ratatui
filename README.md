@@ -1,1 +1,1 @@
-# hello-rust-tui
+# hello-rust-ratatui
